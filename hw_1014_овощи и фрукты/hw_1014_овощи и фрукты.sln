@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_1014_овощи_и_фрукты", "hw_1014_овощи_и_фрукты.csproj", "{CC61DF8C-D166-4840-93ED-7B42D7A2864A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forms", "..\forms\forms.csproj", "{0F2B9599-AEEC-42E6-86F3-2A688A18E06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC61DF8C-D166-4840-93ED-7B42D7A2864A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC61DF8C-D166-4840-93ED-7B42D7A2864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC61DF8C-D166-4840-93ED-7B42D7A2864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC61DF8C-D166-4840-93ED-7B42D7A2864A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2B9599-AEEC-42E6-86F3-2A688A18E06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2B9599-AEEC-42E6-86F3-2A688A18E06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2B9599-AEEC-42E6-86F3-2A688A18E06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2B9599-AEEC-42E6-86F3-2A688A18E06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4200A236-8E88-4029-92CD-556F31758715}
+	EndGlobalSection
+EndGlobal

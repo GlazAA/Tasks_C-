@@ -1,0 +1,10 @@
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\bin\Debug\hw_1014_овощи и фрукты.exe.config
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\bin\Debug\hw_1014_овощи и фрукты.exe
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\bin\Debug\hw_1014_овощи и фрукты.pdb
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\obj\Debug\hw_1014_овощи и фрукты.csproj.AssemblyReference.cache
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\obj\Debug\hw_1014_овощи и фрукты.csproj.CoreCompileInputs.cache
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\obj\Debug\hw_1014_.24ECFB7C.Up2Date
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\obj\Debug\hw_1014_овощи и фрукты.exe
+C:\Users\Glaz0112\source\repos\hw_1014_овощи и фрукты\obj\Debug\hw_1014_овощи и фрукты.pdb
